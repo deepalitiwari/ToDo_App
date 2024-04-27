@@ -59,6 +59,9 @@ function App() {
         </div>
         <div className="list">
           <ul>
+            <li>harsh</li>
+          </ul>
+          <ul>
             {list.map((item, i) => (
               <li key={i}>
                 {item}
